@@ -10,7 +10,7 @@ This tool does interact with termsrv.dll so the anti-virus does detect it as a t
 
 How to use
 - If you dont have RDP installed at all follow this guide
-- Step One: Click **Install RDPWrap** on the top. It'll tell you its in a folder in your downloads, go into that folder and run install.dll and wait.
+- Step One: Click **Install RDPWrap** on the top. It'll tell you its in a folder in your downloads, go into that folder and run install.bat and wait.
 - Step Two: Click **Run Offset Finder**, this will generate the updated offsets due to RDPWrap being out of date since 2017.
 - Step Three: Click **Append to INI**, this will automatically add these offsets to the ini file RDP Wrap uses to allow functionality
 - Step Four: Click **Restart RDP Service**, this does exactly what it says it does. If you dont, RDPWrap will not function.
