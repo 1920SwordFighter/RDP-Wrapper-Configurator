@@ -1,5 +1,4 @@
-<img width="772" height="674" alt="image" src="https://github.com/user-attachments/assets/9718f079-9c58-4364-a34a-691958f9859a" /># RDP-Wrapper-Configurator
-This is a GUI specifically designed to reduce the headache of installing RDP Wrapper on your system, say if its incompatible, or you don't have any of the files, this executable has got you covered.
+This is a GUI **specifically** designed to reduce the headache of installing RDP Wrapper on your system, say if its incompatible, or you don't have any of the files, this executable has got you covered.
 
 This program is held on with 2 programs
 - RDP Offset Finder (https://github.com/llccd/RDPWrapOffsetFinder)
