@@ -6,7 +6,7 @@ This program is held on with 2 programs
 Huge thanks to these 2 people for allowing this program to exist.
 
 This tool does interact with termsrv.dll so the anti-virus does detect it as a threat, the best solution is to put it into a folder that you've marked with an exclusion.
-- I've included the source file to proove anything i've added to it isnt mallicious in any way.
+- I've included the source file to prove anything i've added to it isnt mallicious in any way.
 
 How to use
 - If you dont have RDP installed at all follow this guide
